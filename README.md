@@ -35,3 +35,4 @@ Pontos de extremidade:
     335.4833579726278
   ]
 }
+graytoewc9rdqff2.zip se refere ao modelo utilizado no azure; necessario refazer os pontos de extremidades.
